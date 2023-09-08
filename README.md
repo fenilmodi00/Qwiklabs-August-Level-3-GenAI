@@ -70,7 +70,7 @@ chmod +x ARC122.sh
 - [x] APIs allow code to be written to control Google Cloud services.
 - [ ] APIs provide monthly pricing discounts.
 - [ ] APIs provide Google Cloud console access through a simple web-based graphical user interface.
-- [ ] 
+
 
 
 #### Q5. Which command line tool is part of the Cloud SDK?
