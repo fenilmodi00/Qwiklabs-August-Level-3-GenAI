@@ -81,7 +81,7 @@ chmod +x ARC122.sh
 - [ ] Git
 
 
-## Quiz 3
+# Quiz 3
 
 #### Q1. Which of these is a managed environment for deploying containerized apps?
 
