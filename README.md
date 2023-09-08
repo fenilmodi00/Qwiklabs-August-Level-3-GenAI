@@ -8,7 +8,7 @@ chmod +x ARC122.sh
 ```
 
 
-## Quiz 1
+# Quiz 1
 
 #### Q1. Which service provides raw compute, storage, and network capabilities, organized virtually into resources that are similar to physical data centers?
 
@@ -39,7 +39,7 @@ chmod +x ARC122.sh
 - [ ] On-premises
 
 
-## Quiz 2
+# Quiz 2
 
 #### Q1. In the Google Cloud resource hierarchy, into which entity are resources organized?
 
