@@ -107,7 +107,7 @@ chmod +x ARC122.sh
 - [x] Autoscaling
 
 
-#### Q4. Which of these is a managed compute platform that lets you run stateless containers through web requests or Pub/Sub events?
+#### Q4. Which of these is a managed compute platform that lets you run stateless containers through web requests or Pub/Sub events?.
 
 - [ ] Google Kubernetes Engine
 - [x] Cloud Run
